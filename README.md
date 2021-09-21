@@ -29,6 +29,5 @@
   
   <img align="center" alt="Rafa-yoda" height="140" width="240" src="https://i.pinimg.com/originals/7c/c6/d5/7cc6d52d579a73fcba485c30ea52a934.gif">
   
-  ![Snake animation](https://github.com/AlexiSkyline/AlexiSkyline/blob/main/.github/workflows/github-user-contribution.svg)
 </div> 
  
