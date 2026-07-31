@@ -28,6 +28,12 @@
   
   <img align="center" alt="Rafa-yoda" height="140" width="240" src="https://i.pinimg.com/originals/7c/c6/d5/7cc6d52d579a73fcba485c30ea52a934.gif">
   
-  ![Snake animation](https://github.com/AlexiSkyline/AlexiSkyline/blob/output/github-contribution-grid-snake.svg)
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/AlexiSkyline/AlexiSkyline/output/github-contribution-grid-snake-dark.svg">
+      <img src="https://raw.githubusercontent.com/AlexiSkyline/AlexiSkyline/output/github-contribution-grid-snake.svg">
+    </picture>
+  </p>
 </div> 
  
